@@ -1,0 +1,24 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(105, 44, 161, 0.5);
+}
+
+.kotel  {
+    display: flex;
+    padding: 50px;
+    width: 1240px;
+    box-sizing: border-box;
+}
+.kotel img  {
+    margin-right: 50px;
+}
+.sale-cene   {
+    font-size: 22px;
+}
+.d9-popup-header    {
+    width: 70%;
+}
+.about a  {
+    font-size: 20px;
+}
