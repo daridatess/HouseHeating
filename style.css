@@ -1,17 +1,30 @@
 body{
-    width: 100%;
+    width: 320px;
     height: 100%;
     background-color: rgba(105, 44, 161, 0.5);
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+}
+h2  {
+    font-size: 12px;
+}
+a   {
+    font-size: 12px;
+}
+.block {
+    width: 100%;
 }
 
 .kotel  {
     display: flex;
-    padding: 50px;
-    width: 1240px;
+    width: 100%;
     box-sizing: border-box;
+    margin-bottom: 20px;
 }
 .kotel img  {
-    margin-right: 50px;
+    margin-right: 5px;
+    width: 100%;
 }
 .sale-cene   {
     font-size: 22px;
@@ -19,36 +32,36 @@ body{
 .d9-popup-header    {
     width: 70%;
 }
-.about a  {
-    font-size: 20px;
-}
+
 .nasos  {
     display: flex;
-    padding: 50px;
-    width: 1240px;
+    width: 100%;
     box-sizing: border-box;
+    margin-bottom: 20px;
 }
 .nasos img  {
-    width: 25%;
-    height: 25%;
-    margin-right: 50px;
+    margin-right: 5px;
+    width: 100%;
 }
 .termostat  {
     display: flex;
-    padding: 50px;
-    width: 1240px;
+    width: 100%;
     box-sizing: border-box;
+    margin-bottom: 20px;
 }
 .termostat img  {
-    margin-right: 50px;
+    margin-right: 5px;
+    width: 200%;
+    height: 100%;
 }
 .bak    {
     display: flex;
-    padding: 50px;
-    width: 1240px;
+    width: 100%;
     box-sizing: border-box;
+    margin-bottom: 20px;
 }
 .bak img  {
-    width: 350px;
-    margin-right: 50px;
+    margin-right: 5px;
+    width: 200%;
+    height: 100%;
 }
