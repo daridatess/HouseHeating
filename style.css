@@ -22,3 +22,33 @@ body{
 .about a  {
     font-size: 20px;
 }
+.nasos  {
+    display: flex;
+    padding: 50px;
+    width: 1240px;
+    box-sizing: border-box;
+}
+.nasos img  {
+    width: 25%;
+    height: 25%;
+    margin-right: 50px;
+}
+.termostat  {
+    display: flex;
+    padding: 50px;
+    width: 1240px;
+    box-sizing: border-box;
+}
+.termostat img  {
+    margin-right: 50px;
+}
+.bak    {
+    display: flex;
+    padding: 50px;
+    width: 1240px;
+    box-sizing: border-box;
+}
+.bak img  {
+    width: 350px;
+    margin-right: 50px;
+}
